@@ -92,4 +92,4 @@ For a specified start, calculate TMIN, TAVG, and TMAX for all the dates greater 
 
 For a specified start date and end date, calculate TMIN, TAVG, and TMAX for the dates from the start date to the end date, inclusive.
 
-Sources: https://github.com/Satish2611/sqlalchemy-challenge/blob/master/README.md, I used this link for help with the app.py portion for formatting and code help 
+Sources: https://github.com/Satish2611/sqlalchemy-challenge, I used this link for help with the app.py portion for formatting and code help 
